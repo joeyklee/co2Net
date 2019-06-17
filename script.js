@@ -259,8 +259,7 @@ async function make() {
 
     status = document.querySelector("#status");
 
-    status.innerHTML = "done training! if your model didn't achieve a good fit, refresh and try again!";
-    status.innerHTML += `<button class="pa2"><a class="link black" href="/">Hmm, these results are crummy, let's try again</a></button>`
+    status.innerHTML = `done training! if your model didn't achieve a good fit, refresh and → <a class="link black underline bold" href="/">try again</a>!`;
     interact.classList.toggle('hidden');
 
 }
