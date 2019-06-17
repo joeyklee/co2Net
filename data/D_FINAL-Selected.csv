@@ -1,0 +1,344 @@
+val,City name,City name (CDP),City name (carbonn),City name (PKU),City name (GEA),City name (UITP),City name (WB),Definition (CDP),Definition (carbonn),Definition (WB),Study year (WB),Reporting year (CDP),Scope-1 GHG emissions [tCO2 or tCO2-eq],Scope-1 source dataset,Scope-1 GHG emissions units,Year of emission,Latitude (others) [degrees],Longitude (others) [degrees],Country,Region,Population (CDP),Population year (CDP),Population (others),Population year (others)
+0,Aarhus,Aarhus Kommune,,,,,,Administrative boundary of a local government,,,,2016,,CDP,tCO2,2016,56.167,10.25,Denmark,Europe,320000,2016,330639,2016
+1,Abington,Abington Township,,,,,,Other: Municipal boundary,,,,2016,193345,CDP,tCO2-eq,2010,40.1,-75.099722,USA,North America,55310,2010,55557,2016
+2,Addis Ababa,Addis Ababa City Administration,,,,,,Administrative boundary of a local government,,,,2016,3708292,CDP,tCO2-eq,2012,9.03,38.74,Ethiopia,Africa,3384569,2008,3270000,2016
+3,Adelaide,City of Adelaide,,,,,,Administrative boundary of a local government,,,,2016,63724,CDP,tCO2-eq,2013,-34.929,138.601,Australia,Oceania,23169,2015,22393,2010
+4,Aerøskøbing,City of Ærøskøbing,,,,,,Administrative boundary of a local government,,,,2016,,CDP,tCO2,2015,54.883,10.333333,Denmark,Europe,6200,2015,6383,2014
+5,Aguascalientes,,Municipality of Aguascalientes,,,,,,Municipality,,,,3839803,carbonn,tCO2-eq,2010,21.8897,-102.295,Mexico,Latin America & Caribbean,,,934424,2012
+6,Ahmedabad,,Ahmedabad Municipal Corporation,,Ahmadabad,,,,Municipality,,,,13855311,carbonn,tCO2-eq,2008,23.03,72.58,India,South Asia,,,5633927,2011
+7,"Ajax, ON","Town of Ajax, ON",,,,,,Administrative boundary of a local government,,,,2016,6354,CDP,tCO2,2008,43.858,-79.036389,Canada,North America,109600,2011,109600,2011
+8,Albany,City of Albany,,,,,,Administrative boundary of a local government,,,,2017,663997,CDP,tCO2-eq,2010,42.653,-73.757222,USA,North America,97856,2010,98111,2016
+9,"Alton, IL","City of Alton, IL",,,,,,Administrative boundary of a local government,,,,2016,138542,CDP,tCO2-eq,2013,38.901,-90.159722,USA,North America,26581,2015,26861,2016
+10,Amman,Greater Amman Municipality,,,,,,A metropolitan area,,,,2016,3322603,CDP,tCO2-eq,2014,31.95,35.932778,Jordan,"North Africa, Middle East, West Asia",3604459,2015,4007526,2016
+11,Amsterdam,City of Amsterdam,,,Amsterdam,Amsterdam,,Administrative boundary of a local government,,,,2016,2161000,CDP,tCO2,2016,52.367,4.9,Netherlands,Europe,822272,2015,810000,2016
+12,Anshan,,,Anshan,,,,,,,,,3293364.54581,PKU,tCO2,2010,41.1166666667,122.983333333,China,East Asia,,,1529850,
+13,Anyang,,,Anyang,,,,,,,,,917789.196792,PKU,tCO2,2010,36.1,114.333333333,China,East Asia,,,950301,
+14,"Arlington, VA","City of Arlington, VA",,,,,,Administrative boundary of a local government,,,,2016,1257464,CDP,tCO2-eq,2015,38.881,-77.1372613,USA,North America,216700,2015,230050,2016
+15,Aspen and Pitkin County,City of Aspen and Pitkin County,,,,,,A metropolitan area,,,,2016,,CDP,tCO2-eq,2014,39.195,-106.837002,USA,North America,8427,2010,7710,2010
+16,Athens,City of Athens,,,Athens,Athens,,Administrative boundary of a local government,,,,2016,1260355,CDP,tCO2-eq,2014,37.984,23.727806,Greece,Europe,664046,2011,660000,2016
+17,Atlanta,City of Atlanta,,,,Atlanta,,Administrative boundary of a local government,,,,2016,3548215,CDP,tCO2-eq,2014,33.755,-84.39,USA,North America,443775,2013,472522,2016
+18,Auckland,Auckland Council,,,,,,Administrative boundary of a local government,,,,2016,9133523,CDP,tCO2-eq,2013,-36.841,174.74,New Zealand,Oceania,1569900,2015,1570000,2016
+19,Austin,City of Austin,,,Austin,,Austin ,Combination of administrative divisions,,City ,2005,2016,6439000,CDP,tCO2-eq,2013,30.267,-97.733333,USA,North America,888204,2015,947890,2016
+20,Balikpapan,,City of Balikpapan,,,,,,Municipality,,,,481003,carbonn,tCO2-eq,2015,-1.23793,116.852853,Indonesia,Southeast Asia,,,736806,2015
+21,Baltimore,City of Baltimore,,,,,,Administrative boundary of a local government,,,,2017,4019044,CDP,tCO2-eq,2014,39.283,-76.616667,USA,North America,614664,2016,614664,2016
+22,Bandung,,City of Bandung,,,,,,Municipality,,,,2660.98238,carbonn,tCO2-eq,2013,-6.91746,107.619123,Indonesia,Southeast Asia,,,2575478,2015
+23,Bangalore,,Bengaluru Municipal Corporation,,Bangalore,,,,Municipality,,,,5568706.7,carbonn,tCO2-eq,2008,12.97029,77.596152,India,South Asia,,,12339447,2017
+24,Baoding,,,Baoding,,,,,,,,,2946568.18924,PKU,tCO2,2010,38.8666666667,115.466666667,China,East Asia,,,1157891,
+25,Baotou,,,Baotou,,,,,,,,,3363195.27344,PKU,tCO2,2010,40.65,109.833333333,China,East Asia,,,2070801,
+26,Barcelona,,Municipality of Barcelona,,Barcelona,,Barcelona ,,Municipality,City ,2006,,3595726,carbonn,tCO2-eq,2012,41.38506,2.173403,Spain,Europe,,,1604555,2015
+27,Barranquilla,,Municipality of Barranquilla,,,,,,Municipality,,,,3023515,carbonn,tCO2-eq,2013,10.987778,-74.788889,Colombia,Latin America & Caribbean,,,1228271,2017
+28,Barreiro,Barreiro,,,,,,Administrative boundary of a local government,,,,2016,203441,CDP,tCO2,2014,38.667,-9.066667,Portugal,Europe,78764,2011,78764,2011
+29,Basel,Basel-Stadt,,,,,,Administrative boundary of a local government,,,,2017,783932,CDP,tCO2-eq,2016,47.567,7.6,Switzerland,Europe,198206,2016,197000,2016
+30,Batangas,Batangas City,,,,,,A metropolitan area,,,,2016,344419,CDP,tCO2-eq,2010,13.83,121,Philippines,Southeast Asia,332458,2015,329874,2015
+31,Beijing,,,Bejing,Beijing,Beijing,Beijing ,,,Beijing Government Administered Area (Province) ,2006,,75104879.0068,PKU,tCO2,2010,39.9166666667,116.383333333,China,East Asia,,,18766000,
+32,Belo Horizonte,Municipality of Belo Horizonte,,,,,,Administrative boundary of a local government,,,,2016,2804787,CDP,tCO2-eq,2013,-19.917,-43.933333,Brazil,Latin America & Caribbean,2502557,2015,2502557,2014
+33,Benicia,City of Benicia,,,,,,Administrative boundary of a local government,,,,2016,,CDP,tCO2-eq,2010,38.063,-122.156111,USA,North America,27450,2014,28174,2016
+34,Benxi,,,Benxi,,,,,,,,,866087.529437,PKU,tCO2,2010,41.3,123.766666667,China,East Asia,,,1011377,
+35,Betim,,Municipality of Betim,,,,,,Municipality,,,,1716901,carbonn,tCO2-eq,2013,-19,-44,Brazil,Latin America & Caribbean,,,408448,2012
+36,Bhubaneswar,,Bhubaneswar Municipal Corporation,,,,,,Municipality,,,,528002.28,carbonn,tCO2-eq,2005,20.27,85.84,India,South Asia,,,837456,2011
+37,Birmingham,Birmingham City Council,,,Birmingham,,,A metropolitan area,,,,2016,,CDP,tCO2,2013,52.483,-1.893611,United Kingdom,Europe,1101360,2014,1101400,2014
+38,Blacksburg,Town of Blacksburg,,,,,,Administrative boundary of a local government,,,,2017,124461.79,CDP,tCO2-eq,2015,37.23,-80.417778,USA,North America,44215,2015,45038,2016
+39,Bogor,Bogor City Government,,,,,,Administrative boundary of a local government,,,,2017,954020,CDP,tCO2-eq,2014,-6.597,106.7972,Indonesia,Southeast Asia,1047922,2015,1030720,2014
+40,Bogotá,Bogotá Distrito Capital,,,,Bogota,,Administrative boundary of a local government,,,,2016,10679585.14,CDP,tCO2-eq,2015,4.711,-74.072222,Colombia,Latin America & Caribbean,7878783,2015,8080734,2017
+41,Bologna,Comune di Bologna,,,,Bologna,,Administrative boundary of a local government,,,,2016,,CDP,tCO2,2009,44.507,11.351389,Italy,Europe,386181,2014,388257,2016
+42,Bornova,Bornova Municipality,,,,,,0,,,,2016,,CDP,tCO2-eq,2011,38.47,27.221111,Turkey,"North Africa, Middle East, West Asia",416007,2012,416007,2012
+43,Boston,City of Boston,,,,,,Administrative boundary of a local government,,,,2016,3603270,CDP,tCO2-eq,2014,42.358,-71.063611,USA,North America,646000,2013,673184,2016
+44,Boulder,City of Boulder,,,Boulder,,,Administrative boundary of a local government,,,,2016,741287,CDP,tCO2-eq,2012,40.027,-105.251945,USA,North America,104810,2015,108090,2016
+45,Bournemouth,City of Bournemouth,,,Bournemouth and Poole,,,Administrative boundary of a local government,,,,2016,350775,CDP,tCO2,2013,50.72,-1.88,United Kingdom,Europe,191400,2015,197700,2016
+46,Brasília,City of Brasília,,,,Brasilia,,A metropolitan area,,,,2016,7739830,CDP,tCO2-eq,2012,-15.79,-47.88,Brazil,Latin America & Caribbean,1409671,2015,2977216,2016
+47,"Brisbane, CA","City of Brisbane, CA",,,,,,0,,,,2016,,CDP,tCO2-eq,2016,37.681,-122.419167,USA,North America,4603,2015,4282,2010
+48,Bristol,,Bristol City Council,,"Bristol, City of",,,,Independent municipality,,,,2127000,carbonn,tCO2-eq,2012,51.45451,-2.58791,United Kingdom,Europe,,,454200,2017
+49,Brussels,,Brussels Capital Region,,Brussels,Brussels,,,State / Region,,,,3293000,carbonn,tCO2-eq,2011,50.85034,4.35171,Belgium,Europe,,,1175173,2017
+50,Buenos Aires,City of Buenos Aires,,,,,,Administrative boundary of a local government,,,,2016,15561157,CDP,tCO2-eq,2014,-34.603,-58.381667,Argentina,Latin America & Caribbean,3054267,2015,3500000,2016
+51,Buffalo City,,Buffalo City Metropolitan Municipality,,Buffalo City ,,,,Independent municipality,,,,2592942,carbonn,tCO2-eq,2007,-32.9833,27.8667,South Africa,Africa,,,755200,2011
+52,Burlington,City of Burlington,,,,,,Administrative boundary of a local government,,,,2016,368077,CDP,tCO2,2010,44.476,-73.211944,USA,North America,42284,2015,42260,2016
+53,Calgary,City of Calgary,,,,Calgary,Calgary ,Administrative boundary of a local government,,City ,2003,2016,10448332,CDP,tCO2-eq,2015,51.05,-114.066667,Canada,North America,1203915,2015,1239220,2016
+54,Canberra,Canberra,,,,,,Administrative boundary of a local government,,,,2016,1757500,CDP,tCO2-eq,2015,-35.307,149.124417,Australia,Oceania,400000,2016,381488,2013
+55,Cape Town,City of Cape Town,,,Cape Town,Cape Town,Cape Town ,Administrative boundary of a local government,,City ,2006,2016,9783734,CDP,tCO2-eq,2012,-33.925,18.423889,South Africa,Africa,3918830,2014,3840000,2016
+56,Caracas,Alcaldía Metropolitana de Caracas,,,,,,A metropolitan area,,,,2016,14364103,CDP,tCO2-eq,2015,10.481,-66.903611,Venezuela,Latin America & Caribbean,3518590,2015,5290000,2016
+57,Cardiff,City of Cardiff,,,Cardiff and Vale of Glamorgan,,,Administrative boundary of a local government,,,,2016,,CDP,tCO2,2013,51.483,-3.183333,United Kingdom,Europe,354300,2014,361468,2016
+58,Cascais,Cascais,,,,,,Administrative boundary of a local government,,,,2016,565382,CDP,tCO2,2010,38.7,-9.416667,Portugal,Europe,208122,2014,206479,2011
+59,Changchun,,,Changchun,Changchun,,,,,,,,5029058.46744,PKU,tCO2,2010,43.8869444444,125.324722222,China,East Asia,,,4193073,
+60,"Changsha, Hunan",,,Changsha,"Changsha, Hunan",,,,,,,,3955711.94,PKU,tCO2,2010,28.1961111111,112.972222222,China,East Asia,,,5288800,
+61,Changzhou,,,Changzhou,,,,,,,,,4131838.87751,PKU,tCO2,2010,31.7833333333,119.966666667,China,East Asia,,,3290918,
+62,Chengdou,,,Chengdou,,,,,,,,,9975976.2,PKU,tCO2,2010,30.6586111111,104.064722222,China,East Asia,,,10152632,
+63,Chicago,City of Chicago,,,,Chicago,,Administrative boundary of a local government,,,,2017,16951471,CDP,tCO2-eq,2015,41.837,-87.684722,USA,North America,2720546,2015,2704958,2016
+64,Chongqing,,,Chongqing,Chongqing,,,,,,,,9485242.8,PKU,tCO2,2010,29.5583333333,106.566666667,China,East Asia,,,8165500,
+65,Cleveland,City of Cleveland,,,,,,Administrative boundary of a local government,,,,2016,7750563,CDP,tCO2-eq,2010,41.482,-81.669722,USA,North America,396815,2010,385809,2016
+66,Cochin,,Cochin Municipal Corporation,,,,,,Municipality,,,,269372,carbonn,tCO2-eq,2008,9.931233,76.267304,India,South Asia,,,601574,2011
+67,Coimbatore,,Coimbatore City Municipal Corporation,,,,,,Municipality,,,,5316666,carbonn,tCO2-eq,2015,11,76.9558,India,South Asia,,,1601438,2011
+68,Columbus,City of Columbus,,,,,,Administrative boundary of a local government,,,,2016,5487400,CDP,tCO2-eq,2015,39.983,-82.983333,USA,North America,835957,2014,860090,2016
+69,Copenhagen,City of Copenhagen,,,Copenhagen,Copenhagen,,Administrative boundary of a local government,,,,2016,,CDP,tCO2-eq,2015,55.676,12.568333,Denmark,Europe,591481,2015,603000,2016
+70,Curitiba,Municipality of Curitiba,,,,Curitiba,,Administrative boundary of a local government,,,,2016,2686488,CDP,tCO2-eq,2013,-25.417,-49.25,Brazil,Latin America & Caribbean,1751907,2010,1750000,2016
+71,Dalian,,,Dalian,Dalian,,,,,,,,11448360.8442,PKU,tCO2,2010,38.9208333333,121.639166667,China,East Asia,,,6690432,2010
+72,Dallas,City of Dallas,,,,,,Administrative boundary of a local government,,,,2016,119881,CDP,tCO2-eq,2010,32.776,-96.796667,USA,North America,1257676,2013,1317929,2016
+73,Dandong,,,Dandong,,,,,,,,,650633.454572,PKU,tCO2,2010,40.1166666667,124.383333333,China,East Asia,,,865576,
+74,Daqing,,,Daqing,,,,,,,,,3884885.60902,PKU,tCO2,2010,46.5833333333,125,China,East Asia,,,1649825,
+75,Datong,,,Datong,,,,,,,,,1498970.42305,PKU,tCO2,2010,40.0833333333,113.3,China,East Asia,,,1737517,
+76,"Davis, CA","City of Davis, CA",,,,,,Administrative boundary of a local government,,,,2016,348437,CDP,tCO2-eq,2010,38.554,-121.738056,USA,North America,65600,2010,68111,2016
+77,Dehradun,,Dehradun Municipal Corporation,,,,,,Municipality,,,,1316744,carbonn,tCO2-eq,2008,30.318,78.029,India,South Asia,,,578420,2011
+78,Denver,City of Denver,,,Denver,,Denver ,Administrative boundary of a local government,,City and County,2005,2016,4557000,CDP,tCO2-eq,2014,39.762,-104.881105,USA,North America,663862,2014,693060,2016
+79,Detroit,City of Detroit,,,,,,Administrative boundary of a local government,,,,2016,5520240,CDP,tCO2-eq,2012,42.331,-83.045833,USA,North America,688701,2013,672795,2016
+80,District of Columbia,District of Columbia,,,,,,Administrative boundary of a local government,,,,2016,3132786,CDP,tCO2-eq,2013,38.905,-77.016389,USA,North America,672228,2015,681170,2016
+81,Dublin,Dublin City Council,,,Dublin,,,Administrative boundary of a local government,,,,2016,,CDP,tCO2,2011,53.35,-6.260278,Ireland,Europe,527612,2011,553165,2016
+82,Durban,City of Durban,,,,,,Other: geopolitical boundary - physical areas over which local government has jurisdictional control,,,,2016,11681810,CDP,tCO2-eq,2014,-29.883,31.05,South Africa,Africa,3555868,2015,3560000,2016
+83,Durham,City of Durham,,,,,,Administrative boundary of a local government,,,,2016,1973070,CDP,tCO2-eq,2015,35.989,-78.907222,USA,North America,250815,2015,263016,2016
+84,Edmonton,City of Edmonton,,,,,,Administrative boundary of a local government,,,,2016,10215142,CDP,tCO2-eq,2014,53.533,-113.5,Canada,North America,878000,2014,932546,2016
+85,Ekurhuleni,,Ekurhuleni Metropolitan Municipality,,Ekurhuleni ,,,,Independent municipality,,,,19330397,carbonn,tCO2-eq,2014,26.223,28.167,South Africa,Africa,,,3178470,2011
+86,"Emeryville, CA","City of Emeryville, CA",,,,,,Administrative boundary of a local government,,,,2016,127138,CDP,tCO2-eq,2014,37.831,-122.285278,USA,North America,10570,2014,11671,2016
+87,Eugene,City of Eugene,,,,,,Administrative boundary of a local government,,,,2016,1106250,CDP,tCO2-eq,2015,44.052,-123.086667,USA,North America,151190,2013,166575,2016
+88,Faro,Faro,,,,,,Administrative boundary of a local government,,,,2016,128,CDP,tCO2,2010,37.033,-7.916667,Portugal,Europe,61214,2014,64560,2011
+89,Ferrara,Comune di Ferrara,,,,,,Administrative boundary of a local government,,,,2016,,CDP,tCO2-eq,2007,44.833,11.616667,Italy,Europe,133155,2015,132499,2017
+90,Flagstaff,City of Flagstaff,,,,,,Administrative boundary of a local government,,,,2016,621293.07,CDP,tCO2,2014,35.199,-111.631111,USA,North America,68667,2013,71459,2016
+91,Florianópolis,Prefeitura de Florianópolis,,,,,,A metropolitan area,,,,2016,1305206,CDP,tCO2-eq,2013,-27.572,-48.6256,Brazil,Latin America & Caribbean,550000,2010,469690,2015
+92,Fort Collins,,City of Fort Collins,,Fort Collins,,,,Municipality,,,,2055587,carbonn,tCO2-eq,2016,40.58526,-105.084,USA,North America,,,143986,2010
+93,Fushun,,,Fushun,,,,,,,,,1495948.86969,PKU,tCO2,2010,41.8666666667,123.9,China,East Asia,,,1410000,
+94,Fuxin,,,Fuxin,,,,,,,,,381202.916456,PKU,tCO2,2010,41.0166666667,121.65,China,East Asia,,,669317,
+95,Fuzhou,,,Fuzhou,Fuzhou      ,,,,,,,,7188866.09081,PKU,tCO2,2010,26.0761111111,119.306388889,China,East Asia,,,4468076,
+96,Gandhinagar,,Gandhinagar Municipal Corporation,,,,,,Municipality,,,,5424749,carbonn,tCO2-eq,2011,23.22,72.68,India,South Asia,,,292167,2011
+97,Genova,Comune di Genova,,,,,,Administrative boundary of a local government,,,,2016,,CDP,tCO2,2011,44.407,8.933983,Italy,Europe,592995,2014,583973,2016
+98,Gladsaxe Kommune,Gladsaxe Kommune,,,,,,A metropolitan area,,,,2017,247599,CDP,tCO2-eq,2015,55.733,12.483333,Denmark,Europe,67347,2015,66693,2014
+99,Goiânia,City of Goiânia,,,,,,Administrative boundary of a local government,,,,2016,,CDP,tCO2-eq,2010,-16.667,-49.25,Brazil,Latin America & Caribbean,2173141,2010,2458504,2016
+100,Graz,,City of Graz,,,Graz,,,Independent municipality,,,,1218740,carbonn,tCO2-eq,1994,47.0667,15.4333,Austria,Europe,,,280200,2016
+101,Greater London,Greater London Authority,,,London,London,London ,Administrative boundary of a local government,,Greater London ,2003,2016,20620000,CDP,tCO2-eq,2013,51.507,-0.1275,United Kingdom,Europe,8600000,2015,8673713,2016
+102,Guangzhou,,,Guangzhou,"Guangzhou, Guangdong",Guangzhou,,,,,,,21069987.84,PKU,tCO2,2010,23.1333333333,113.266666667,China,East Asia,,,11547491,
+103,Guaratinguetá,Estância Turística de Guaratinguetá,,,,,,Administrative boundary of a local government,,,,2016,497634,CDP,tCO2-eq,2015,-22.817,-45.227778,Brazil,Latin America & Caribbean,,2015,119073,2015
+104,Guiyang,,,Guiyang,Guiyang,,,,,,,,1059495.97501,PKU,tCO2,2010,26.65,106.633333333,China,East Asia,,,3483100,
+105,Gwalior,,Gwalior Municipal Corporation,,,,,,Municipality,,,,1195239,carbonn,tCO2-eq,2013,26.21829,78.182831,India,South Asia,,,1069276,2011
+106,Gävle,,Gävle Municipality,,Gävle,,,,Municipality,,,,363052,carbonn,tCO2-eq,2011,60.6749,17.1413,Sweden,Europe,,,75451,2016
+107,Haerbin,,,Haerbin,Haerbin,,,,,,,,10142882.88,PKU,tCO2,2010,45.75,126.633333333,China,East Asia,,,5282083,
+108,Haikou,,,Haikou,Haikou,,,,,,,,880097.8,PKU,tCO2,2010,20.0427777778,110.341666667,China,East Asia,,,2046189,2010
+109,Hamburg,Free and Hanseatic City of Hamburg,,,Hamburg,Hamburg,,Administrative boundary of a local government,,,,2016,,CDP,tCO2,2013,53.565,10.001389,Germany,Europe,1762791,2014,1787408,2015
+110,"Hamilton, ON",City of Hamilton,,,,,,A metropolitan area,,,,2016,6304593,CDP,tCO2-eq,2012,43.25,-79.866667,Canada,North America,519949,2011,536917,2001
+111,Handan,,,Handan,,,,,,,,,3005643.73272,PKU,tCO2,2010,36.6,114.483333333,China,East Asia,,,941427,
+112,Hangzhou,,,Hangzhou,Hangzhou,,,,,,,,20319589.9607,PKU,tCO2,2010,30.25,120.166666667,China,East Asia,,,7970000,
+113,Hat Yai,,Hat Yai City Municipality,,,,,,Municipality,,,,477723,carbonn,tCO2-eq,2013,7.01621,100.47288,Thailand,Southeast Asia,,,158218,2012
+114,Hayward,City of Hayward,,,,,,Administrative boundary of a local government,,,,2016,861854,CDP,tCO2-eq,2015,37.669,-122.080796,USA,North America,158985,2015,158937,2016
+115,Hefei,,,Hefei,Hefei,,,,,,,,5131200.36,PKU,tCO2,2010,31.8666666667,117.283333333,China,East Asia,,,5670000,
+116,Hegang,,,Hegang,,,,,,,,,306548.753366,PKU,tCO2,2010,47.35,130.3,China,East Asia,,,664471,
+117,Heidelberg,Stadt Heidelberg,,,,,,Administrative boundary of a local government,,,,2016,,CDP,tCO2,2011,49.417,8.716667,Germany,Europe,144948,2014,144000,2016
+118,Heilongjiang,,,Yichun,,,,,,,,,350520.291081,PKU,tCO2,2010,47.7333333333,128.9,China,East Asia,,,1148126,2010
+119,Helsinki,City of Helsinki,,,Helsinki,Helsinki,,Administrative boundary of a local government,,,,2016,2096206,CDP,tCO2-eq,2014,60.171,24.9375,Finland,Europe,612664,2014,629512,2016
+120,Hengyang,,,Hengyang,,,,,,,,,1030434.76712,PKU,tCO2,2010,26.9,112.6,China,East Asia,,,1135166,
+121,"Hermosa Beach, CA","City of Hermosa Beach, CA",,,,,,Administrative boundary of a local government,,,,2016,123218,CDP,tCO2-eq,2012,33.866,-118.399722,USA,North America,19750,2015,19789,2016
+122,Hiroshima,City of Hiroshima,,,,,,Administrative boundary of a local government,,,,2016,,CDP,tCO2-eq,2014,34.385,132.455278,Japan,East Asia,1191030,2015,1154391,2016
+123,Hjørring,Municipality of Hjørring,,,,,,Other: Energy plan for Hjoerring Municipality,,,,2016,289000,CDP,tCO2,2014,57.467,9.983333,Denmark,Europe,65308,2016,67121,2008
+124,Hoeje-Taastrup Kommune,Hoeje-Taastrup Kommune,,,,,,Administrative boundary of a local government,,,,2016,173000,CDP,tCO2,2014,55.648,12.27,Denmark,Europe,50002,2016,48853,2014
+125,Hohhot,,,Huhehaote,Hohhot,,,,,,,,2721836.64,PKU,tCO2,2010,40.8166666667,111.65,China,East Asia,,,1980774,
+126,Hong Kong,Government of Hong Kong Special Administrative Region,,,Hong Kong,Hong Kong,,Administrative boundary of a local government,,,,2017,44876460,CDP,tCO2-eq,2014,22.3,114.2,China,East Asia,7336600,2016,7310000,2016
+127,Houston,City of Houston,,,,Houston,,Administrative boundary of a local government,,,,2016,16075539,CDP,tCO2-eq,2014,29.763,-95.383056,USA,North America,2195914,2013,2303482,2016
+128,Huaibei,,,Huaibei,,,,,,,,,1322234.51304,PKU,tCO2,2010,33.58,116.47,China,East Asia,,,1113321,
+129,Huainan,,,Huainan,,,,,,,,,1124851.26,PKU,tCO2,2010,32.6166666667,116.983333333,China,East Asia,,,1666826,
+130,Huangshi,,,Huangshi,,,,,,,,,563460.779364,PKU,tCO2,2010,30.2166666667,115.083333333,China,East Asia,,,691963,
+131,Hue,,Hue City,,,,,,Municipality,,,,1040337,carbonn,tCO2-eq,2011,16.450001,107.583336,Vietnam,Southeast Asia,,,354124,2015
+132,Hyderabad,,Greater Hyderabad Municipal Corporation,,,,,,Independent municipality,,,,2196031,carbonn,tCO2-eq,2010,17.366,78.476,India,South Asia,,,6809970,2011
+133,Incheon,Incheon Metropolitan City,,,,,,Administrative boundary of a local government,,,,2016,57719912,CDP,tCO2-eq,2015,37.483,126.633333,South Korea,East Asia,2983484,2015,3002645,2017
+134,Indianapolis,City of Indianapolis,,,,,,Administrative boundary of a local government,,,,2017,726155.11,CDP,tCO2,2013,39.791,-86.148,USA,North America,853000,2015,855164,2016
+135,Indore,,Indore Municipal Corporation,,,,,,Municipality,,,,1145839,carbonn,tCO2-eq,2007,22.723481,75.860184,India,South Asia,,,1994397,2011
+136,Iowa,City of Iowa City,,,,,,Administrative boundary of a local government,,,,2016,590282,CDP,tCO2-eq,2013,41.66,-91.5342,USA,North America,73415,2015,74398,2016
+137,Istanbul,,Istanbul Metropolitan Municipality,,Istanbul,,,,Special municipality / Federal district,,,,37199137,carbonn,tCO2-eq,2010,41.00824,28.978359,Turkey,"North Africa, Middle East, West Asia",,,15029231,2017
+138,Izmir,,Izmir Metropolitan Municipality,,,,,,Municipality,,,,50287659,carbonn,tCO2-eq,2015,38.41842,27.14283,Turkey,"North Africa, Middle East, West Asia",,,4273677,2017
+139,Jaipur,,Jaipur Municipal Corporation,,,,,,Municipality,,,,7610894,carbonn,tCO2-eq,2010,26.926,75.8235,India,South Asia,,,3046189,2011
+140,Jakarta,Jakarta City Government,,,,Jakarta,,Administrative boundary of a local government,,,,2016,,CDP,tCO2-eq,2014,-6.2,106.816667,Indonesia,Southeast Asia,10075300,2015,10075310,2014
+141,Jerusalem,,Jerusalem Municipality,,,,,,Municipality,,,,2353555,carbonn,tCO2-eq,2007,31.7833,35.2167,Israel,"North Africa, Middle East, West Asia",,,882652,2016
+142,Jiamusi,,,Jiamusi,,,,,,,,,495170.672101,PKU,tCO2,2010,46.8,130.316666667,China,East Asia,,,881711,
+143,Jiaozhuo,,,Jiaozhuo,,,,,,,,,815447.132719,PKU,tCO2,2010,35.2430555556,113.223055556,China,East Asia,,,865413,
+144,Jilin,,,Jilin,Jilin,,,,,,,,2348914.71091,PKU,tCO2,2010,43.8666666667,126.55,China,East Asia,,,1975121,
+145,"Jinan, Shandong",,,Jinan,"Jinan, Shandong",,,,,,,,7731542.72,PKU,tCO2,2010,36.6666666667,116.983333333,China,East Asia,,,4693700,
+146,Jingzhou,,,Jingzhou,,,,,,,,,778879.269628,PKU,tCO2,2010,30.3333333333,112.216666667,China,East Asia,,,1154086,
+147,Jinzhou,,,Jinzhou,,,,,,,,,918688.574202,PKU,tCO2,2010,41.1166666667,121.133333333,China,East Asia,,,1091799,
+148,Jixi,,,Jixi,,,,,,,,,476065.669992,PKU,tCO2,2010,45.3,130.966666667,China,East Asia,,,862959,
+149,Johannesburg,City of Johannesburg,,,Johannesburg,Johannesburg,,Administrative boundary of a local government,,,,2016,9068358,CDP,tCO2-eq,2014,-26.204,28.045556,South Africa,Africa,4764381,2015,4434827,2011
+150,Kadiovacik,Village of Kadiovacik,,,,,,Administrative boundary of a local government,,,,2016,404.65,CDP,tCO2,2015,38.343,26.553367,Turkey,"North Africa, Middle East, West Asia",216,2016,,
+151,Kaifeng,,,Kaifeng,,,,,,,,,882357.931934,PKU,tCO2,2010,34.8,114.3,China,East Asia,,,826961,
+152,Kaohsiung,Kaohsiung City Government,,,,,,Administrative boundary of a local government,,,,2016,43502687.67,CDP,tCO2-eq,2014,22.633,120.266667,Taiwan,East Asia,2778729,2015,2778918,2016
+153,Khelang Nakhon,,Kalangnakorn Town Municipality,,,,,,Municipality,,,,162378,carbonn,tCO2-eq,2015,18.2919,99.5047,Thailand,Southeast Asia,,,60100,2017
+154,Knoxville,City of Knoxville,,,,,,Administrative boundary of a local government,,,,2016,2061435,CDP,tCO2-eq,2012,35.973,-83.942222,USA,North America,184281,2014,186239,2016
+155,Kota,,Kota Municipal Corporation,,,,,,Municipality,,,,1099038,carbonn,tCO2-eq,2010,25.18,75.83,India,South Asia,,,1001694,2011
+156,Kunming,,,Kuiming,Kunming,,,,,,,,2649621.63815,PKU,tCO2,2010,25.0666666667,102.683333333,China,East Asia,,,4575000,
+157,Kyoto,,Kyoto City,,Kyoto,,,,Municipality,,,,7684000,carbonn,tCO2-eq,2011,35.011636,135.768029,Japan,East Asia,,,1474811,2015
+158,La Paz,Municipalidad de La Paz,,,,,,Administrative boundary of a local government,,,,2016,1152922.4,CDP,tCO2-eq,2012,-16.5,-68.15,Bolivia,Latin America & Caribbean,789541,2015,877363,2008
+159,Lagos,City of Lagos,,,,,,A metropolitan area,,,,2016,29426266,CDP,tCO2-eq,2014,6.455,3.384082,Nigeria,Africa,21000000,2016,21000000,2015
+160,Lahti,City of Lahti,,,,,,Administrative boundary of a local government,,,,2017,717200,CDP,tCO2-eq,2015,60.983,25.65,Finland,Europe,119452,2016,118885,2016
+161,"Lake Forest, IL","City of Lake Forest, IL",,,,,,A metropolitan area,,,,2016,,CDP,tCO2-eq,2007,42.235,-87.850833,USA,North America,19375,2010,19388,2016
+162,Lakewood,City of Lakewood,,,,,,Administrative boundary of a local government,,,,2016,553900,CDP,tCO2-eq,2007,39.705,-105.081389,USA,North America,149643,2014,154393,2016
+163,Lampang,,Lampang City Municipality,,,,,,Municipality,,,,120403.31,carbonn,tCO2-eq,2013,18.315,99.5027,Thailand,Southeast Asia,,,58074,2010
+164,"Lancaster, PA","City of Lancaster, PA",,,,,,Administrative boundary of a local government,,,,2017,364183,CDP,tCO2-eq,2016,40.04,-76.304444,USA,North America,60000,2016,59218,2016
+165,Lanzhou,,,Lanzhou,Lanzhou,,,,,,,,2649039.26064,PKU,tCO2,2010,36.0333333333,103.8,China,East Asia,,,2177130,
+166,Las Vegas,City of Las Vegas,,,,,,A metropolitan area,,,,2016,11002925,CDP,tCO2,2014,36.175,-115.136389,USA,North America,621970,2016,632912,2016
+167,Lausanne,Ville de Lausanne,,,,,,Administrative boundary of a local government,,,,2016,456843,CDP,tCO2,2013,46.52,6.6335,Switzerland,Europe,140000,2015,135629,2015
+168,Leicester,City of Leicester,,,Leicester,,,Administrative boundary of a local government,,,,2016,,CDP,tCO2,2013,52.633,-1.133333,United Kingdom,Europe,333812,2013,348343,2016
+169,León de los Aldamas,,Municipality of León de los Aldamas,,,,,,Municipality,,,,94311876.215,carbonn,tCO2-eq,2012,21.13,-101.69,Mexico,Latin America & Caribbean,,,1436733,2010
+170,Liaoyang,,,Liaoyang,,,,,,,,,584207.552929,PKU,tCO2,2010,41.2666666667,123.183333333,China,East Asia,,,527850,
+171,Lima,Metropolitan Municipality of Lima,,,,,,A metropolitan area,,,,2016,12378734,CDP,tCO2-eq,2012,-12.043,-77.028333,Peru,Latin America & Caribbean,8755262,2014,8693387,2014
+172,Linyi,,,Lingyi,,,,,,,,,5723315.622,PKU,tCO2,2010,35.05,118.35,China,East Asia,,,2303648,
+173,Lisbon,City of Lisbon,,,Lisbon,,,Administrative boundary of a local government,,,,2016,1023910,CDP,tCO2,2014,38.714,-9.139444,Portugal,Europe,547773,2011,545245,2011
+174,Liuzhou,,,Liuzhou,,,,,,,,,1053120.72358,PKU,tCO2,2010,24.3166666667,109.383333333,China,East Asia,,,1436599,
+175,Ljubljana,City of Ljubljana,,,Ljubljana,,,Administrative boundary of a local government,,,,2017,1829808,CDP,tCO2-eq,2014,46.056,14.508333,Slovenia,Europe,288307,2016,279756,2016
+176,"London, ON","City of London, ON",,,,,,Administrative boundary of a local government,,,,2016,2771000,CDP,tCO2-eq,2014,42.984,-81.2497,Canada,North America,375000,2014,383822,2016
+177,Los Altos Hills,Los Altos Hills,,,,,,Administrative boundary of a local government,,,,2016,47552,CDP,tCO2,2015,37.371,-122.1375,USA,North America,8334,2013,8501,2016
+178,Los Angeles,City of Los Angeles,,,Los Angeles,Los Angeles,Los Angeles ,Administrative boundary of a local government,,County ,2000,2016,19595119,CDP,tCO2-eq,2013,34.05,-118.25,USA,North America,3928864,2014,3976322,2016
+179,Luoyang,,,Luoyang,,,,,,,,,2534080.92912,PKU,tCO2,2010,34.6697222222,112.442222222,China,East Asia,,,1926079,
+180,Lyon,,Lyon Metropolis,,Lyon,Lyon,,,Independent intercommunality,,,,7191700,carbonn,tCO2-eq,2010,45.7454,4.84195,France,Europe,,,1354476,2014
+181,Madrid,Ayuntamiento de Madrid,,,Madrid,Madrid,,Administrative boundary of a local government,,,,2016,6795577,CDP,tCO2-eq,2013,40.383,-3.716667,Spain,Europe,3156572,2015,3207247,2013
+182,Magdeburg,Landeshauptstadt Magdeburg,,,,,,A metropolitan area,,,,2016,,CDP,tCO2,2012,52.133,11.616667,Germany,Europe,238000,2015,235723,2015
+183,Makati,City Government of Makati,,,,,,Administrative boundary of a local government,,,,2016,462586,CDP,tCO2-eq,2011,14.55,121.03,Philippines,Southeast Asia,529039,2010,582602,2015
+184,Malang,,City of Malang,,,,,,Municipality,,,,775422,carbonn,tCO2-eq,2017,-7.969634,112.633156,Indonesia,Southeast Asia,,,887443,2016
+185,Manchester,Greater Manchester,,,Manchester,Manchester,,A metropolitan area,,,,2016,9587290,CDP,tCO2-eq,2013,53.467,-2.233333,United Kingdom,Europe,2762000,2014,2547700,2001
+186,Melbourne,City of Melbourne,,,Melbourne,Melbourne,,Administrative boundary of a local government,,,,2016,785326,CDP,tCO2-eq,2015,-37.814,144.963056,Australia,Oceania,137889,2016,138000,2016
+187,Mexico City,Mexico City,,,Mexico City,,Mexico City ,"Other: the inhabitants, commercial establishments, services and industries located in the territory of Mexico City area",,City ,2000,2016,16842493.45,CDP,tCO2-eq,2014,19.433,-99.133333,Mexico,Latin America & Caribbean,8874724,2014,8874724,2014
+188,Milano,Comune di Milano,,,Milano (Milan),Milan,,Administrative boundary of a local government,,,,2016,3728678,CDP,tCO2,2013,45.467,9.183333,Italy,Europe,1350680,2014,1350000,2016
+189,Minneapolis,City of Minneapolis,,,Minneapolis,,Minneapolis ,Administrative boundary of a local government,,City ,2005,2016,2890572,CDP,tCO2-eq,2014,44.983,-93.266667,USA,North America,407207,2014,413651,2016
+190,Moita,Município de Moita,,,,,,Administrative boundary of a local government,,,,2016,49910,CDP,tCO2,2013,38.65,-8.983333,Portugal,Europe,66029,2011,66029,2011
+191,Montreal,Ville de Montreal,,,,Montreal,,Other: The regional entity that constitutes the agglomeration of Montreal (it is not the metropolitan area of Montreal whitch is bigger than the agglomeration of Montreal) - see Question 1 in the Introduction for more information,,,,2016,13634331,CDP,tCO2-eq,2009,45.5,-73.566667,Canada,North America,1886481,2011,1704694,2016
+192,Msunduzi,,Msunduzi Local Municipality,,Msunduzi ,,,,Municipality,,,,1289214,carbonn,tCO2-eq,2015,-29.6179,30.3825,South Africa,Africa,,,618536,2011
+193,Mudanjiang,,,Mudanjiang,,,,,,,,,744132.012381,PKU,tCO2,2010,44.55,129.633333333,China,East Asia,,,965154,
+194,Naga,,City of Naga,,,,,,Special municipality / Federal district,,,,243527,carbonn,tCO2-eq,2014,13.62178,123.194824,Philippines,Southeast Asia,,,115750,2015
+195,Nagoya,City of Nagoya,,,,,,Administrative boundary of a local government,,,,2016,7690000,CDP,tCO2-eq,2013,35.183,136.9,Japan,East Asia,2274511,2015,2215062,2015
+196,Nagpur,,Nagpur Municipal Corporation,,,,,,Municipality,,,,1534552.31,carbonn,tCO2-eq,2007,21.15,79.09,India,South Asia,,,2497870,2011
+197,Nanchang,,,Nanchang,Nanchang,,,,,,,,2484926.25,PKU,tCO2,2010,28.6833333333,115.883333333,China,East Asia,,,2357839,
+198,Nancy,Communauté urbaine du Grand Nancy,,,,,,A metropolitan area,,,,2016,,CDP,tCO2-eq,2016,48.694,6.1846,France,Europe,265000,2014,260665,2014
+199,"Nanjing, Jiangsu",,,Nanjing,"Nanjing, Jiangsu",,,,,,,,9689288.42149,PKU,tCO2,2010,32.05,118.766666667,China,East Asia,,,8335000,2017
+200,Nanning,,,Nanning,Nanning,,,,,,,,3640328.08198,PKU,tCO2,2010,22.8166666667,108.316666667,China,East Asia,,,4037000,
+201,Nantes,,Urban Community of Nantes Métropole,,,Nantes,,,Intercommunality,,,,2076210,carbonn,tCO2-eq,2003,47.2181,-1.5528,France,Europe,,,612782,2013
+202,Nashville and Davidson,Metropolitan Government of Nashville and Davidson County,,,,,,Administrative boundary of a local government,,,,2017,6680194,CDP,tCO2-eq,2014,36.155,-86.761944,USA,North America,678889,2015,660388,2016
+203,Nelson Mandela,,Nelson Mandela Bay Metropolitan Municipality,,Nelson Mandela ,,,,Independent municipality,,,,4986052,carbonn,tCO2-eq,2012,-33,25,South Africa,Africa,,,1152115,2011
+204,New Orleans,City of New Orleans,,,,,,A metropolitan area,,,,2016,2419891,CDP,tCO2-eq,2014,29.95,-90.066667,USA,North America,389617,2015,391495,2016
+205,New Taipei,New Taipei City Government,,,,,,Administrative boundary of a local government,,,,2016,6149934,CDP,tCO2-eq,2014,25.011,121.445833,Taiwan,East Asia,3966818,2014,3972204,2016
+206,New York City,New York City,,,New York,New York,New York City ,Administrative boundary of a local government,,City ,2005,2017,38962264,CDP,tCO2-eq,2015,40.713,-74.0059,USA,North America,8537673,2016,8537673,2016
+207,Nice,Métropole Nice Côte d'Azur,,,,,,A metropolitan area,,,,2016,,CDP,tCO2-eq,2010,43.703,7.2663,France,Europe,550000,2015,544977,2014
+208,Ningbo,,,Ningbo,Ningbo,,,,,,,,6563188.42724,PKU,tCO2,2010,29.8666666667,121.55,China,East Asia,,,3491597,
+209,North Vancouver,City of North Vancouver,,,,,,Administrative boundary of a local government,,,,2017,182896,CDP,tCO2-eq,2015,49.317,-123.066667,Canada,North America,52898,2016,52898,2016
+210,Oakland,City of Oakland,,,,,,Administrative boundary of a local government,,,,2017,956414,CDP,tCO2-eq,2015,37.804,-122.270833,USA,North America,419000,2015,420005,2016
+211,Okayama,City of Okayama,,,,,,Administrative boundary of a local government,,,,2016,114000,CDP,tCO2-eq,2013,34.65,133.916667,Japan,East Asia,705917,2015,720841,2017
+212,Osaka,,Osaka Prefecture,,,Osaka,,,State / Region,,,,50040000,carbonn,tCO2-eq,2009,34.69,135.52,Japan,East Asia,,,8864228,2012
+213,Oslo,City of Oslo,,,Oslo,Oslo,,Administrative boundary of a local government,,,,2016,1094422,CDP,tCO2-eq,2013,59.95,10.75,Norway,Europe,658390,2016,660000,2016
+214,Palmas,Prefeitura de Palmas,,,,,,A metropolitan area,,,,2016,589055.31,CDP,tCO2-eq,2013,-10.184,-48.333611,Brazil,Latin America & Caribbean,272726,2015,265090,2014
+215,Palo Alto,City of Palo Alto,,,,,,Administrative boundary of a local government,,,,2016,152631,CDP,tCO2-eq,2015,37.429,-122.138056,USA,North America,66955,2015,67024,2016
+216,Paris,City of Paris,,,Paris,Paris,,Administrative boundary of a local government,,,,2016,3359242,CDP,tCO2-eq,2014,48.857,2.3508,France,Europe,2265886,2015,2270000,2016
+217,Pasig,,City Government of Pasig,,,,,,Municipality,,,,659168,carbonn,tCO2-eq,2010,14.5763768,121.0851097,Philippines,Southeast Asia,,,755300,2015
+218,"Peterborough, ON",City of Peterborough,,,,,,A metropolitan area,,,,2016,,CDP,tCO2-eq,2011,44.3,-78.316667,Canada,North America,78698,2011,81032,2016
+219,Philadelphia,City of Philadelphia,,,,,,Administrative boundary of a local government,,,,2016,12397594.06,CDP,tCO2-eq,2012,39.95,-75.166667,USA,North America,1560297,2014,1567872,2016
+220,Phuket,,Phuket City Municipality,,,,,,Municipality,,,,480265,carbonn,tCO2-eq,2013,7.88875,98.39779,Thailand,Southeast Asia,,,75573,2007
+221,Piacenza,Comune di Piacenza,,,,,,Administrative boundary of a local government,,,,2016,,CDP,tCO2,1990,45.048,9.700556,Italy,Europe,102269,2014,100413,2012
+222,"Piedmont, CA","City of Piedmont, CA",,,,,,Other:,,,,2016,17876,CDP,tCO2-eq,2011,37.817,-122.233333,USA,North America,11082,2013,11353,2016
+223,Pimpri-Chinchwad,,Pimpri Chinchwad Municipal Corporation,,,,,,Municipality,,,,3185501,carbonn,tCO2-eq,2012,18.6298,73.7997,India,South Asia,,,1729320,2011
+224,Pingdingshan,,,Pingdingshan,,,,,,,,,929863.268202,PKU,tCO2,2010,33.7333333333,113.3,China,East Asia,,,979130,
+225,Pingtung,Pingtung County Government,,,,,,Administrative boundary of a local government,,,,2017,2768427.4,CDP,tCO2-eq,2013,22.675,120.491414,Taiwan,East Asia,835792,2016,839001,2016
+226,Pittsburgh,City of Pittsburgh,,,,,,Administrative boundary of a local government,,,,2016,2073556,CDP,tCO2-eq,2013,40.44,-79.976389,USA,North America,305704,2016,303625,2016
+227,"Portland, OR","City of Portland, OR",,,Portland,,Portland,Administrative boundary of a local government,,City ,2005,2016,4610317,CDP,tCO2-eq,2014,45.52,-122.681944,USA,North America,619360,2014,639863,2016
+228,Porto,City of Porto,,,,,,Administrative boundary of a local government,,,,2016,,CDP,tCO2-eq,2009,41.162,-8.621953,Portugal,Europe,238954,2011,287591,2011
+229,Porto Alegre,Municipality of Porto Alegre,,,,,,Administrative boundary of a local government,,,,2016,,CDP,tCO2-eq,2013,-30.033,-51.23,Brazil,Latin America & Caribbean,1409351,2010,1481019,2016
+230,Pretoria Tshwane,Pretoria - Tshwane,,,Tshwane ,,,A metropolitan area,,,,2016,4648959,CDP,tCO2-eq,2015,-25.667,28.333333,South Africa,Africa,3200000,2016,3200000,2016
+231,Probolinggo,,City of Probolinggo,,,,,,Municipality,,,,235623,carbonn,tCO2-eq,2010,-7.777007,113.202187,Indonesia,Southeast Asia,,,223159,2014
+232,Pune,,Pune Municipal Corporation,,,,,,Municipality,,,,4661066,carbonn,tCO2-eq,2011,18.5203,73.8567,India,South Asia,,,3124458,2011
+233,Qingdao,,,Qingdao,Qingdao,,,,,,,,14564735.0219,PKU,tCO2,2010,36.0666666667,120.383333333,China,East Asia,,,6188100,
+234,Qiqihaer,,,Qiqihaer,,,,,,,,,1447990.44292,PKU,tCO2,2010,47.35,123.916666667,China,East Asia,,,1481637,
+235,Quezon,,City of Quezon City,,,,,,Special municipality / Federal district,,,,713312132,carbonn,tCO2-eq,2010,14.67604,121.0437,Philippines,Southeast Asia,,,2936116,2015
+236,Quito,Distrito Metropolitano de Quito,,,,,,A metropolitan area,,,,2016,4653611,CDP,tCO2-eq,2011,-0.217,-78.516667,Ecuador,Latin America & Caribbean,2239191,2010,2550000,2016
+237,Rajkot,,Rajkot Municipal Corporation,,,,,,Municipality,,,,2019912,carbonn,tCO2-eq,2015,22.3039,70.80216,India,South Asia,,,1442975,2016
+238,Ravenna,Comune di Ravenna,,,,,,Administrative boundary of a local government,,,,2016,11115,CDP,tCO2,2014,44.417,12.2,Italy,Europe,158911,2015,158784,2014
+239,Recife,Municipality of Recife,,,,,,Administrative boundary of a local government,,,,2017,1333830,CDP,tCO2-eq,2015,-8.05,-34.9,Brazil,Latin America & Caribbean,1625583,2016,1555039,2012
+240,Reno,City of Reno,,,,,,Administrative boundary of a local government,,,,2017,1371400,CDP,tCO2-eq,2014,39.527,-119.821944,USA,North America,236995,2014,245255,2016
+241,Reykjavík,City of Reykjavík,,,,,,A metropolitan area,,,,2016,346630,CDP,tCO2-eq,2013,64.133,-21.933333,Iceland,Europe,122460,2015,123246,2016
+242,"Richmond, VA","City of Richmond, VA",,,,,,Administrative boundary of a local government,,,,2016,1470127,CDP,tCO2,2013,37.533,-77.466667,USA,North America,217853,2014,223170,2016
+243,Rio de Janeiro,Prefeitura do Rio de Janeiro,,,Rio de Janiero,Rio de Janeiro,Rio de Janeiro ,Administrative boundary of a local government,,City ,1998,2016,16171534,CDP,tCO2-eq,2012,-22.908,-43.196389,Brazil,Latin America & Caribbean,6476631,2015,6500000,2016
+244,Roanoke,City of Roanoke,,,,,,Administrative boundary of a local government,,,,2016,,CDP,tCO2-eq,2015,37.267,-79.933333,USA,North America,98465,2013,99660,2016
+245,Roma,Roma Capitale,,,Roma (Rome),Rome,,Administrative boundary of a local government,,,,2016,,CDP,tCO2,2010,41.9,12.5,Italy,Europe,2868347,2015,2890000,2016
+246,Rosario,,Municipality of Rosario,,,,,,Municipality,,,,3687016,carbonn,tCO2-eq,2014,-32.9442,-60.6505,Argentina,Latin America & Caribbean,,,1193605,2010
+247,Rotterdam,Gemeente Rotterdam,,,,,,Other: Geopolitical Boundary - physical areas over which local government has jurisdictional control.,,,,2017,17840039,CDP,tCO2,2016,51.917,4.5,Netherlands,Europe,624000,2014,620000,2016
+248,Salvador,City of Salvador,,,,,,Administrative boundary of a local government,,,,2016,3242166,CDP,tCO2-eq,2013,-12.975,-38.476667,Brazil,Latin America & Caribbean,2902927,2014,2920000,2016
+249,San Antonio,City of San Antonio,,,,,,Administrative boundary of a local government,,,,2016,7214051,CDP,tCO2-eq,2013,29.417,-98.5,USA,North America,1400000,2012,1492510,2016
+250,San Carlos (Negros Occidental),,City of San Carlos,,,,,,Municipality,,,,88330,carbonn,tCO2-eq,2015,10,123,Philippines,Southeast Asia,,,132536,2015
+251,San Diego,City of San Diego,,,,San Diego,,0,,,,2016,,CDP,tCO2-eq,2009,32.715,-117.1625,USA,North America,1400000,2016,1406630,2016
+252,San Francisco,City of San Francisco,,,,San Francisco,,Other: Geopolitical Boundary - physical areas over which local government has jurisdictional control,,,,2016,4186111,CDP,tCO2-eq,2012,37.783,-122.416667,USA,North America,864816,2015,870887,2016
+253,San Jerónimo de Montería,,City of San Jerónimo de Montería,,,,,,Municipality,,,,1166,carbonn,tCO2-eq,2014,8,-75,Colombia,Latin America & Caribbean,,,460223,2018
+254,San Luis Potosí,Ayuntamiento de San Luis Potosí,,,,,,A metropolitan area,,,,2016,1096122.89,CDP,tCO2-eq,2015,22.151,-100.976111,Mexico,Latin America & Caribbean,824229,2015,824229,2015
+255,Santa Monica,City of Santa Monica,,,,,,Administrative boundary of a local government,,,,2017,119026,CDP,tCO2-eq,2015,34.022,-118.481389,USA,North America,92000,2014,92478,2016
+256,Santa Rosa,,"City of Santa Rosa, Laguna",,,,,,Municipality,,,,1358351,carbonn,tCO2-eq,2010,14.2843,121.088893,Philippines,Southeast Asia,,,353767,2015
+257,Santarém,Santarém,,,,,,Administrative boundary of a local government,,,,2016,245483,CDP,tCO2,2006,39.233,-8.683333,Portugal,Europe,61752,2011,61752,2011
+258,Santiago,Región Metropolitana de Santiago,,,,,,A metropolitan area,,,,2016,23120027.8,CDP,tCO2-eq,2013,-33.45,-70.666667,Chile,Latin America & Caribbean,7314176,2015,7310000,2016
+259,Santiago de Cali,Santiago de Cali,,,,,,Combination of administrative divisions,,,,2016,,CDP,tCO2-eq,2010,3.421,-76.522222,Colombia,Latin America & Caribbean,2369829,2015,2400653,2012
+260,Santiago de Guayaquil,Santiago de Guayaquil,,,,,,Administrative boundary of a local government,,,,2016,5429899,CDP,tCO2-eq,2014,-2.183,-79.883333,Ecuador,Latin America & Caribbean,2350915,2010,3500000,2014
+261,Sao Paulo,,Municipality of São Paulo,,Sao Paulo,Sao Paulo,Sao Paulo ,,Municipality,City ,2000,,15880130.359,carbonn,tCO2-eq,2011,-23.5505,-46.633309,Brazil,Latin America & Caribbean,,,12106920,2017
+262,Sapporo,,Sapporo City,,,Sapporo,,,Municipality,,,,13024847.61,carbonn,tCO2-eq,2014,43.062,141.3544,Japan,East Asia,,,1880863,2016
+263,Savannah,City of Savannah,,,,,,Administrative boundary of a local government,,,,2017,2381327,CDP,tCO2-eq,2014,32.017,-81.116667,USA,North America,145674,2015,146763,2016
+264,Seattle,City of Seattle,,,Seattle,,Seattle ,Administrative boundary of a local government,,City ,2005,2016,5150000,CDP,tCO2-eq,2012,47.61,-122.333056,USA,North America,662400,2015,704352,2016
+265,Seberang,,SEBERANG PERAI MUNICIPAL COUNCIL,,,,,,Municipality,,,,8131.48208,carbonn,tCO2-eq,2016,5.377294,100.400146,Malaysia,Southeast Asia,,,818197,2010
+266,Semarang,,City of Semarang,,,,,,Municipality,,,,1770297.41,carbonn,tCO2-eq,2010,-6.96667,109.417,Indonesia,Southeast Asia,,,1555984,2010
+267,Sendai,,Sendai City,,,,,,Municipality,,,,6573042,carbonn,tCO2-eq,2011,38.2681,140.87,Japan,East Asia,,,1025126,2017
+268,Seoul,Seoul Metropolitan Government,,,,,Seoul ,Administrative boundary of a local government,,Seoul City,1998,2016,25082520,CDP,tCO2-eq,2013,37.567,126.966667,South Korea,East Asia,10297138,2015,9995784,
+269,Shanghai,,,Shanghai,Shanghai,Shanghai,Shanghai ,,,Shanghai Government Administered Area (Province) ,2006,,47538733.2263,PKU,tCO2,2010,31.2286111111,121.474722222,China,East Asia,,,23019196,2010
+270,Shantou,,,Shantou,,,,,,,,,2213793,PKU,tCO2,2010,23.35,116.666666667,China,East Asia,,,5389328,
+271,Shenyang,,,Shenyang,Shenyang,,,,,,,,12745308,PKU,tCO2,2010,41.8,123.4,China,East Asia,,,6255921,
+272,Shenzhen,,,Shenzhen,Shenzhen,,,,,,,,20444357.3118,PKU,tCO2,2010,22.55,114.1,China,East Asia,,,12528300,2017
+273,Shijiazhuang,,,Shijiazhuang,Shijiazhuang,,,,,,,,6524736.36402,PKU,tCO2,2010,38.0666666667,114.483333333,China,East Asia,,,4303700,
+274,Shimla,,Shimla Municipal Corporation,,,,,,Municipality,,,,218896,carbonn,tCO2-eq,2013,31.10482,77.173403,India,South Asia,,,169578,2011
+275,Singapore,,Government of Singapore,,Singapore,Singapore,,,Sovereign city-state,,,,46831680,carbonn,tCO2-eq,2010,1.283333,103.833333,Singapore,Southeast Asia,,,5607300,2015
+276,"Somerville, MA","City of Somerville, MA",,,,,,Administrative boundary of a local government,,,,2016,461798,CDP,tCO2-eq,2014,42.388,-71.1,USA,North America,78900,2014,81322,2016
+277,Sorocaba,Prefeitura de Sorocaba,,,,,,Administrative boundary of a local government,,,,2016,980290,CDP,tCO2-eq,2012,-23.502,-47.458056,Brazil,Latin America & Caribbean,644919,2015,644919,2015
+278,St Louis,City of St Louis,,,,,,Administrative boundary of a local government,,,,2016,2481945.42,CDP,tCO2-eq,2014,38.627,-90.197778,USA,North America,319294,2010,311404,2016
+279,Stockholm,City of Stockholm,,,Stockholm county,Stockholm,,Administrative boundary of a local government,,,,2017,1834343,CDP,tCO2-eq,2015,59.329,18.068611,Sweden,Europe,923516,2015,901000,2016
+280,Surat,,Surat Municipal Corporation,,,,,,Municipality,,,,16255462,carbonn,tCO2-eq,2011,21.178284,72.807696,India,South Asia,,,4467797,2011
+281,Suwon,Suwon City,,,,,,Administrative boundary of a local government,,,,2016,3670140,CDP,tCO2-eq,2013,37.267,127.016667,South Korea,East Asia,1221973,2015,1170878,2013
+282,Suzhou,,,Suzhou,,,,,,,,,10917942.385,PKU,tCO2,2010,31.3,120.6,China,East Asia,,,10465994,2010
+283,Sydney,City of Sydney,,,Sydney,Sydney,,Administrative boundary of a local government,,,,2016,359064,CDP,tCO2-eq,2015,-33.865,151.209444,Australia,Oceania,205339,2015,205000,2016
+284,Taian,,,Taian,,,,,,,,,2019794.06653,PKU,tCO2,2010,36.2,117.083333333,China,East Asia,,,1735425,
+285,Taipei City,Taipei City Government,,,,Taipei,,Administrative boundary of a local government,,,,2016,6493593,CDP,tCO2-eq,2014,25.033,121.633333,Taiwan,East Asia,2704810,2015,2704974,2016
+286,"Taiyuan, Shanxi",,,Taiyuan,"Taiyuan, Shanxi",,,,,,,,3380932.83274,PKU,tCO2,2010,37.8694444444,112.560277778,China,East Asia,,,3212500,
+287,Tangshan,,,Tangshan,,,,,,,,,5782654.8678,PKU,tCO2,2010,39.6230555556,118.176111111,China,East Asia,,,3187171,
+288,Taoyuan,Taoyuan City Hall,,,,,,Administrative boundary of a local government,,,,2017,21143194.6,CDP,tCO2-eq,2014,24.991,121.314328,Taiwan,East Asia,2153521,2017,2116988,2014
+289,Thane,,Thane Municipal Corporation,,,,,,Municipality,,,,4077107,carbonn,tCO2-eq,2013,19.1724,72.957,India,South Asia,,,1886941,2011
+290,Tianjin,,,Tianjin,Tianjin,,Tianjin ,,,Tianjin Government Administered Area (Province) ,2006,,34806608.2,PKU,tCO2,2010,39.1333333333,117.183333333,China,East Asia,,,12784000,
+291,Tokyo,Tokyo Metropolitan Government,,,Tokyo,,Tokyo ,Administrative boundary of a local government,,Tokyo Metropolitan Government Administered Areas (Tokyo-to)   ,2006,2016,27611000,CDP,tCO2-eq,2014,35.683,139.683333,Japan,East Asia,13513734,2015,12576611,2015
+292,Toluca de Lerdo,,Municipality of Toluca de Lerdo,,,,,,Municipality,,,,4378317,carbonn,tCO2-eq,2010,19.28261,-99.655665,Mexico,Latin America & Caribbean,,,873536,2015
+293,Torino,Comune di Torino,,,Torino (Turin),,,"Other: Our  emission inventory takes in account the City of Turin  and its boundary, following the instruction of the JRC methodology (""How to develope a sustainable energy action plan"") setted up for the Covenant of Mayors initiative.",,,,2016,,CDP,tCO2,2014,45.067,7.7,Italy,Europe,898714,2014,892649,2015
+294,Toronto,City of Toronto,,,Toronto,Toronto,Toronto ,Administrative boundary of a local government,,Greater Toronto Area ,2005,2016,16151019,CDP,tCO2,2013,43.7,-79.4,Canada,North America,2753100,2011,2810000,2016
+295,Torres Vedras,Torres Vedras Municipality,,,,,,Administrative boundary of a local government,,,,2016,,CDP,tCO2,2009,39.083,-9.266667,Portugal,Europe,79465,2011,79465,2011
+296,Tucson,City of Tucson,,,,,,Administrative boundary of a local government,,,,2016,2571089,CDP,tCO2-eq,2012,32.222,-110.926389,USA,North America,529845,2015,530706,2016
+297,Turku,City of Turku,,,,,,Administrative boundary of a local government,,,,2016,421200,CDP,tCO2-eq,2013,60.45,22.266667,Finland,Europe,186000,2015,186030,2016
+298,Tuxtla Gutiérrez,,City of Tuxtla Gutiérrez,,,,,,Municipality,,,,1708489,carbonn,tCO2-eq,2010,16,-93,Mexico,Latin America & Caribbean,,,598710,2015
+299,Ubon Ratchathani,,Ubonratchathani Municipality,,,,,,Municipality,,,,421443,carbonn,tCO2-eq,2015,15.2283,104.8596,Thailand,Southeast Asia,,,76271,2017
+300,Udine,Comune di Udine,,,,,,Administrative boundary of a local government,,,,2016,438005,CDP,tCO2,2013,46.067,13.233333,Italy,Europe,99528,2013,100514,2012
+301,Umeå,,Umeå Municipality,,Umeå,,,,Municipality,,,,521267,carbonn,tCO2-eq,2013,63.8258,20.263,Sweden,Europe,,,84761,2016
+302,"University City, MO","University City, MO",,,,,,Administrative boundary of a local government,,,,2016,266265,CDP,tCO2-eq,2005,38.664,-90.327778,USA,North America,35371,2010,34706,2016
+303,Uppsala,,Uppsala Municipality,,Uppsala,,,,Municipality,,,,1182401,carbonn,tCO2-eq,2014,59.85856,17.638927,Sweden,Europe,,,149245,2015
+304,Valledupar,,Municipality of Valledupar,,,,,,Municipality,,,,1114495,carbonn,tCO2-eq,2013,10.4742,-73.2436,Colombia,Latin America & Caribbean,,,423260,2005
+305,Vancouver,City of Vancouver,,,,Vancouver,,Administrative boundary of a local government,,,,2016,2389748,CDP,tCO2-eq,2014,49.25,-123.1,Canada,North America,603500,2011,600000,2016
+306,Venezia,Comune di Venezia,,,,,,Administrative boundary of a local government,,,,2016,955471,CDP,tCO2,2005,45.438,12.335833,Italy,Europe,263104,2016,260000,2016
+307,Vilnius,Vilnius City Municipality,,,Vilnius,,,Administrative boundary of a local government,,,,2016,1994560,CDP,tCO2-eq,2013,54.683,25.283333,Lithuania,Europe,542626,2015,542664,2015
+308,Växjö,,Växjö Municipality,,Växjö,,,,Municipality,,,,285353,carbonn,tCO2-eq,2013,56.879,14.805852,Sweden,Europe,,,66275,2017
+309,Warsaw,City of Warsaw,,,,,,Administrative boundary of a local government,,,,2016,7930452,CDP,tCO2,2014,52.233,21.016667,Poland,Europe,1626514,2016,1730000,2016
+310,Weifang,,,Weifang,,,,,,,,,4319059.23072,PKU,tCO2,2010,36.7166666667,119.1,China,East Asia,,,2044028,
+311,Wellington,Wellington City Council,,,,Wellington,,Administrative boundary of a local government,,,,2017,621179,CDP,tCO2-eq,2014,-41.289,174.777222,New Zealand,Oceania,209102,2017,207870,2016
+312,West Hollywood,City of West Hollywood,,,,,,Administrative boundary of a local government,,,,2016,,CDP,tCO2,2008,34.088,-118.372222,USA,North America,34399,2010,36698,2016
+313,Windhoek,,City of Windhoek,,,,,,Municipality,,,,2829997,carbonn,tCO2-eq,2016,-22.5609,17.065755,Namibia,Africa,,,325858,2011
+314,"Windsor, ON",City of Windsor,,,,,,Administrative boundary of a local government,,,,2016,2475703,CDP,tCO2-eq,2014,42.283,-83,Canada,North America,210891,2011,217188,2016
+315,Winnipeg,City of Winnipeg,,,,,,Administrative boundary of a local government,,,,2016,5167453,CDP,tCO2-eq,1998,49.899,-97.139167,Canada,North America,718400,2015,705244,2016
+316,Wonju,,Wonju City,,,,,,Municipality,,,,1928493,carbonn,tCO2-eq,2012,37.3422186,127.9201621,South Korea,East Asia,,,310854,2010
+317,Wuhan,,,Wuhan,Wuhan,,,,,,,,7164450.65,PKU,tCO2,2010,30.5833333333,114.283333333,China,East Asia,,,10607700,
+318,Wuxi,,,Wuxi,,,,,,,,,6571992.2469,PKU,tCO2,2010,31.5666666667,120.3,China,East Asia,,,3542319,
+319,"Xi'an, Shaanxi",,,Xi'an,"Xi'an, Shaanxi",,,,,,,,9582034.56,PKU,tCO2,2010,34.2666666667,108.9,China,East Asia,,,8705600,2015
+320,Xiamen,,,Xiamen,Xiamen,,,,,,,,3275065.5,PKU,tCO2,2010,24.4798361111,118.089419444,China,East Asia,,,3531347,2010
+321,Xiangtan,,,Xiangtan,,,,,,,,,597950.862753,PKU,tCO2,2010,27.85,112.9,China,East Asia,,,684600,
+322,Xiangyang,,,Xiangyang,,,,,,,,,1903957.45224,PKU,tCO2,2010,32.017,112.133,China,East Asia,,,2199689,
+323,Xining,,,Xining,Xining,,,,,,,,807454.483523,PKU,tCO2,2010,36.6333333333,101.766666667,China,East Asia,,,1198304,
+324,Xinxiang,,,Xinxiang,,,,,,,,,617978.935245,PKU,tCO2,2010,35.3,113.866666667,China,East Asia,,,1047020,
+325,Xuzhou,,,Xuzhou,,,,,,,,,5618198.844,PKU,tCO2,2010,34.2666666667,117.216666667,China,East Asia,,,3053778,
+326,Yantai,,,Yantai,,,,,,,,,4531203.03283,PKU,tCO2,2010,37.535,121.389166667,China,East Asia,,,2227733,
+327,Yilan,Yilan County,,,,,,Administrative boundary of a local government,,,,2016,6911264.55,CDP,tCO2-eq,2013,24.751,121.759167,Taiwan,East Asia,458777,2014,458777,2014
+328,Yinchuan,,,Yinchuan,Yinchuan,,,,,,,,2039692.10453,PKU,tCO2,2010,38.4666666667,106.266666667,China,East Asia,,,1290170,
+329,Yokohama,City of Yokohama,,,,,,Administrative boundary of a local government,,,,2016,12572000,CDP,tCO2-eq,2013,35.444,139.638056,Japan,East Asia,3719589,2015,3579628,2016
+330,Yonkers,City of Yonkers,,,,,,Administrative boundary of a local government,,,,2016,982940,CDP,tCO2,2010,40.941,-73.864444,USA,North America,199766,2013,200807,2016
+331,Zaragoza,City of Zaragoza,,,,,,Administrative boundary of a local government,,,,2016,1175162.74,CDP,tCO2,2014,41.65,-0.883333,Spain,Europe,661108,2015,661108,2016
+332,Zhangjiakou,,,Zhangjiakou,,,,,,,,,1191132.57013,PKU,tCO2,2010,40.7666666667,114.883333333,China,East Asia,,,4345485,2010
+333,Zhanjiang,,,Zhanjiang,,,,,,,,,1770360.6,PKU,tCO2,2010,21.2,110.4,China,East Asia,,,1611868,
+334,Zhaozhuang,,,Zhaozhuang,,,,,,,,,1607492.69021,PKU,tCO2,2010,34.8666666667,117.55,China,East Asia,,,2125481,
+335,Zhengzhou,,,Zhengzhou,Zhengzhou,,,,,,,,7303971.18524,PKU,tCO2,2010,34.7666666667,113.65,China,East Asia,,,6406000,
+336,Zhuzhou,,,Zhuzhou,,,,,,,,,1132880.32,PKU,tCO2,2010,27.85,113.133333333,China,East Asia,,,2416000,
+337,Zibo,,,Zibo,,,,,,,,,3425477.28048,PKU,tCO2,2010,36.7833333333,118.05,China,East Asia,,,3129228,
+338,Zürich,Stadt Zürich,,,Zurich,Zurich,,Administrative boundary of a local government,,,,2016,,CDP,tCO2-eq,2014,47.367,8.55,Switzerland,Europe,404783,2014,401144,2016
+339,eThekwini,,eThekwini Metropolitan Municipality,,eThekwini ,,,,Independent municipality,,,,22118090,carbonn,tCO2-eq,2015,-29.8587,31.02184,South Africa,Africa,,,3442361,2011
+340,Águeda,Município de Águeda,,,,,,0,,,,2016,,CDP,tCO2-eq,2013,40.574,-8.448056,Portugal,Europe,47729,2011,47729,2011
+341,Örebro,,Örebro Municipality,,Örebro,,,,Municipality,,,,470149,carbonn,tCO2-eq,2015,59.2667,15.2167,Sweden,Europe,,,147423,2017
+342,Ürümqi (Wulumqi),,,Wulumuqi,Ürümqi (Wulumqi),,,,,,,,5489128.31649,PKU,tCO2,2010,43.825,87.6,China,East Asia,,,3519600,2017
