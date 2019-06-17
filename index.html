@@ -1,56 +1,71 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>TensorFlow.js City Population Size and CO2 Emissions</title>
-  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"/>
-  <!-- Import TensorFlow.js -->
-  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.1.2/dist/tf.min.js"></script>
-  <!-- Import tfjs-vis -->
-  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-vis@1.1.0/dist/tfjs-vis.umd.min.js"></script>
+  <head>
+    <title>TensorFlow.js City Population Size and CO2 Emissions</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"
+    />
+    <!-- Import TensorFlow.js -->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.1.2/dist/tf.min.js"></script>
+    <!-- Import tfjs-vis -->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-vis@1.1.0/dist/tfjs-vis.umd.min.js"></script>
 
-  <style>
-    .hidden{
-      display: none;
-    }
-  </style>
-  
+    <style>
+      .hidden {
+        display: none;
+      }
+    </style>
+  </head>
 
-</head>
+  <body class="avenir pa4 mw6">
+    <!-- <p>NOTE: City Population and CO2 Emissions have been log scaled during model training. Therefore you should Math.log10() any input to the model when running predictions.</p> -->
 
-<body class="avenir pa4 mw6">
-  <!-- <p>NOTE: City Population and CO2 Emissions have been log scaled during model training. Therefore you should Math.log10() any input to the model when running predictions.</p> -->
-
-    
     <h1 class="athelas">Rough estimate CO2e emissions by population size</h1>
-    <p id="status">Training in progress... (see tfvis tab)</p>
-    
-    
+
     <div id="interact" class="hidden">
-    <fieldset>
-    <legend>Estimate</legend>
-    <p>For the given population, a rough estimate of CO2e emissions in tons per reported year: <br/> <span id="result"></span></p>
-    <input type="text" id="population-input" placeholder="8623000">
-    <button id="submit-btn">submit</button>
-  </fieldset>
+      <fieldset>
+        <legend>Estimate</legend>
+        <p>
+          For the given population, a rough estimate of CO2e emissions in tons
+          per reported year: <br />
+          <span id="result"></span>
+        </p>
+        <input type="text" id="population-input" placeholder="8623000" />
+        <button id="submit-btn">submit</button>
+      </fieldset>
     </div>
-    
+
+    <p id="status">Training in progress... (see tfvis tab)</p>
 
     <section class="mt4">
-    <p>In the original dataset, here are some examples:</p>
-    <ul>
-      <li>NYC: population - 8,537,673 (2016) | emissions - 38,962,264</li>
-      <li>Paris: population - 2,265,886 (2015) | emissions - 3,359,242</li>
-      <li>Vancouver: population - 603,500 (2014) | emissions - 2,389,748</li>
-      <li>Lisbon: population - 547,773 | emissions - 1,023,910</li>
-    </ul>
-    <p>You may notice that depending on the way the neural net creates a model of the data, the estimated emissions values may dramatically over or under estimate. Remember, this is a model based on a model so errors will propograte up. This example is to showcase the capability to train neural nets in the browser with tensorflow.js as well as how we might approach data critically if/when we notice strange or unexpected behaviors.</p>
+      <p>In the original dataset, here are some examples:</p>
+      <ul>
+        <li>NYC: population - 8,537,673 (2016) | emissions - 38,962,264</li>
+        <li>Paris: population - 2,265,886 (2015) | emissions - 3,359,242</li>
+        <li>Vancouver: population - 603,500 (2014) | emissions - 2,389,748</li>
+        <li>Lisbon: population - 547,773 | emissions - 1,023,910</li>
+      </ul>
+      <p>
+        You may notice that depending on the way the neural net creates a model
+        of the data, the estimated emissions values may dramatically over or
+        under estimate. Remember, this is a model based on a model so errors
+        will propograte up. This example is to showcase the capability to train
+        neural nets in the browser with tensorflow.js as well as how we might
+        approach data critically if/when we notice strange or unexpected
+        behaviors.
+      </p>
     </section>
     <section class="mt4">
-      <a class="link black underline" href="https://doi.pangaea.de/10.1594/PANGAEA.884141" target="_blank">Link to Pangea Data Repository</a>
+      <a
+        class="link black underline"
+        href="https://doi.pangaea.de/10.1594/PANGAEA.884141"
+        target="_blank"
+        >Link to Pangea Data Repository</a
+      >
     </section>
 
-  <!-- Import the main script file -->
-  <script src="script.js"></script>
-
-</body>
+    <!-- Import the main script file -->
+    <script src="script.js"></script>
+  </body>
 </html>
