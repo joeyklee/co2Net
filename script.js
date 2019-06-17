@@ -259,7 +259,7 @@ async function make() {
 
     status = document.querySelector("#status");
 
-    status.innerHTML = `done training! if your model didn't achieve a good fit, refresh and → <a class="link black underline bold" href="/">try again</a>!`;
+    status.innerHTML = `Training complete! If your model didn't achieve a good fit (e.g. the predictions - the orange squares - should align as closely with the original data - the blue circles.), refresh and → <a class="link black underline bold" href="/">try again</a>!`;
     interact.classList.toggle('hidden');
 
 }
