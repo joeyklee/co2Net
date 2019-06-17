@@ -4,7 +4,7 @@ Data found via [Data is Plural](https://tinyletter.com/data-is-plural)
 
 ![image of front page](assets/co2net-page-01.png)
 
-NOTE: City Population and CO2 Emissions have been log scaled during model training. Therefore you should Math.log10() any input to the model when running predictions.
+NOTE: City Population and CO2 Emissions have been log scaled during model training. Therefore you should Math.log10() any input to the model when running predictions. The results will need to be transformed back from being log transformed. You can use `Math.pow(10, predictedValue)`.
 
 ## Methods: 
 * there are ~340+ cities in the reported paper, but it seems only ~150 do not contain `null` values for `'Population (CDP)'` or `'Scope-1 GHG emissions [tCO2 or tCO2-eq]'` which are used as the `x` and `y` values. Null or undefined values are filtered out.
