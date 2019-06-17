@@ -2,6 +2,7 @@
 
 Data found via [Data is Plural](https://tinyletter.com/data-is-plural)
 
+![image of front page](assets/co2net-page-01.png)
 
 NOTE: City Population and CO2 Emissions have been log scaled during model training. Therefore you should Math.log10() any input to the model when running predictions.
 
@@ -9,11 +10,11 @@ NOTE: City Population and CO2 Emissions have been log scaled during model traini
 * there are ~340+ cities in the reported paper, but it seems only ~150 do not contain `null` values for `'Population (CDP)'` or `'Scope-1 GHG emissions [tCO2 or tCO2-eq]'` which are used as the `x` and `y` values. Null or undefined values are filtered out.
 * The model is run a number of times to achieve optimal fit based on visual inspection using tfvis. The model in the `/output` folder reflects these images:
 
-![](assets/co2net-tfvis-01.png)
-![](assets/co2net-tfvis-02.png)
-![](assets/co2net-tfvis-03.png)
-![](assets/co2net-tfvis-04.png)
-![](assets/co2net-tfvis-05.png)
+![screenshot of tfvis output - fitted](assets/co2net-tfvis-01.png)
+![screenshot of tfvis output](assets/co2net-tfvis-02.png)
+![screenshot of tfvis output](assets/co2net-tfvis-03.png)
+![screenshot of tfvis output](assets/co2net-tfvis-04.png)
+![screenshot of tfvis output - points](assets/co2net-tfvis-05.png)
 
 * **Input**: Population Size as `Math.log10( populationSizeOfInterest )`
 * **Output**: CO2 Equivalent Emissions in tons. To get the CO2e in tons use `Math.pow(10, outputNumber)`
